@@ -1,9 +1,17 @@
 ### Hi there 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-amir.zahlan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amir.zahlan@gmail.com)](mailto:amir.zahlan@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Amir_Zahlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-zahlan-2143806b/)](https://www.linkedin.com/in/amir-zahlan-2143806b/) [![Instagram Badge](https://img.shields.io/badge/-Amir_Zahlan-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/amir.zln)](https://instagram.com/amir.zln)
---------------------------------------
+I am, also, a developer.
 
 ![amimaro GitHub Stats](https://github-readme-stats.vercel.app/api?username=amimaro&show_icons=true)
+
+- 📫 How to reach me: ...
+
+[![Gmail Badge](https://img.shields.io/badge/-amir.zahlan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amir.zahlan@gmail.com)](mailto:amir.zahlan@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Amir_Zahlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-zahlan-2143806b/)](https://www.linkedin.com/in/amir-zahlan-2143806b/) [![Instagram Badge](https://img.shields.io/badge/-Amir_Zahlan-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/amir.zln)](https://instagram.com/amir.zln)
+
+:brazil: :lebanon:
+
+Be water my friend :leaves:	
+
 
 <!--
 **amimaro/amimaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
