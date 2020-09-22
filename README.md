@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Brazilian with Lebanese roots that develops some stuffs...
+I am Brazilian with Lebanese roots that develops some stuff...
 
 :chess_pawn: [Let's play chess](https://chess.com/play/amimaro)
 
