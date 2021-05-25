@@ -6,7 +6,7 @@ I am Brazilian with Lebanese roots that develops some stuff...
 
 📫 How to reach me: ...
 
-[![Gmail Badge](https://img.shields.io/badge/-amir.zahlan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amir.zahlan@gmail.com)](mailto:amir.zahlan@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Amir_Zahlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-zahlan-2143806b/)](https://www.linkedin.com/in/amir-zahlan-2143806b/) [![Instagram Badge](https://img.shields.io/badge/-amir.zln-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/amir.zln)](https://instagram.com/amir.zln)
+[![Gmail Badge](https://img.shields.io/badge/-amir.zahlan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amir.zahlan@gmail.com)](mailto:amir.zahlan@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Amir_Zahlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-zahlan-2143806b/)](https://www.linkedin.com/in/amir-zahlan-2143806b/)
 
 Be water my friend :leaves:	
 
