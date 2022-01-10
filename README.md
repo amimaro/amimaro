@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am Brazilian with Lebanese roots that develops some stuff...
+I am Brazilian with Lebanese roots, passionate about new technologies and what they can provide us. I currently working with web development and during this way I ended up leaning more towards the front-end where I have been improving myself in the most up-to-date frameworks on the market. 
 
-:chess_pawn: [Let's play chess](https://chess.com/play/amimaro)
+If I weren't a programmer, you would see me baking delicious breads and pizzas because gastronomy is one of my passions besides traveling and enjoying the family. 
+
+Recently I've been studying more about blockchain in order to create my own projects.
 
 📫 How to reach me: ...
 
