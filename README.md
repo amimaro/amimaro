@@ -8,7 +8,7 @@ Recently I've been studying more about blockchain in order to create my own proj
 
 📫 How to reach me: ...
 
-[![Gmail Badge](https://img.shields.io/badge/-amir.zahlan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amir.zahlan@gmail.com)](mailto:amir.zahlan@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Amir_Zahlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-zahlan-2143806b/)](https://www.linkedin.com/in/amir-zahlan-2143806b/)
+[![Gmail Badge](https://img.shields.io/badge/-amir.zahlan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amir.zahlan@gmail.com)](mailto:amir.zahlan@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Amir_Zahlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirzahlan/)](https://www.linkedin.com/in/amirzahlan/) [![Linkedin Badge](https://img.shields.io/badge/-Amir_Zahlan-3399ff?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/amirzln)](https://twitter.com/amirzln)
 
 Be water my friend :leaves:	
 
