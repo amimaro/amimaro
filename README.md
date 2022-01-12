@@ -4,7 +4,7 @@ I am Brazilian with Lebanese roots, passionate about new technologies and what t
 
 If I weren't a programmer, you would see me baking delicious breads and pizzas because gastronomy is one of my passions besides traveling and enjoying the family. 
 
-Recently I've been studying more about blockchain technologies in order to create my own projects.
+Currently I've been studying more about blockchain technologies in order to create my own projects.
 
 📫 How to reach me: ...
 
