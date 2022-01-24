@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amimaro&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amimaro&layout=compact&theme=tokyonight&hide=jupyter%20notebook&c#,php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amimaro&layout=compact&theme=tokyonight&hide=jupyter%20notebook&c#&php&java,php)](https://github.com/anuraghazra/github-readme-stats)
