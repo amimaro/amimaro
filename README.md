@@ -8,7 +8,7 @@ Currently I've been studying more about blockchain technologies in order to crea
 
 📫 How to reach me: ...
 
-[![Gmail Badge](https://img.shields.io/badge/-amir.zahlan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amir.zahlan@gmail.com)](mailto:amir.zahlan@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Amir_Zahlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirzahlan/)](https://www.linkedin.com/in/amirzahlan/) [![Linkedin Badge](https://img.shields.io/badge/-Amir_Zahlan-3399ff?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/amirzln)](https://twitter.com/amirzln)
+[![Gmail Badge](https://img.shields.io/badge/-amir.zahlan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amir.zahlan@gmail.com)](mailto:amir.zahlan@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-amirzahlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirzahlan/)](https://www.linkedin.com/in/amirzahlan/) [![Linkedin Badge](https://img.shields.io/badge/-amirzln-3399ff?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/amirzln)](https://twitter.com/amirzln)
 
 Be water my friend :leaves:	
 
