@@ -2,7 +2,7 @@
 
 📫 How to reach me: ...
 
-[![Linkedin Badge](https://img.shields.io/badge/-amirzln-3399ff?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/amirzln)](https://twitter.com/amirzln) [![Linkedin Badge](https://img.shields.io/badge/-amirzahlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirzahlan/)](https://www.linkedin.com/in/amirzahlan/) [![Gmail Badge](https://img.shields.io/badge/-amir.zahlan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amir.zahlan@gmail.com)](mailto:amir.zahlan@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-amirzln-3399ff?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/amimarow)](https://twitter.com/amimarow) [![Linkedin Badge](https://img.shields.io/badge/-amirzahlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirzahlan/)](https://www.linkedin.com/in/amirzahlan/) [![Gmail Badge](https://img.shields.io/badge/-amir.zahlan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amir.zahlan@gmail.com)](mailto:amir.zahlan@gmail.com)
 
 Be water my friend :leaves:	
 
